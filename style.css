@@ -43,7 +43,7 @@ table.center {
     -ms-user-select: none;
     user-select: none;
 }
-.octicon-link:before { content: '#'; }
+.octicon-link:before { content: url(bicycle.png); }
 
 .octicon-link {
     display: none;
@@ -59,7 +59,7 @@ h6:hover .anchor {
     height: 1em;
     padding-left: 8px;
     margin-top: 5px;
-    margin-left: -28px;
+    margin-left: -41px;
     line-height: 1;
     text-decoration: none;
 }
