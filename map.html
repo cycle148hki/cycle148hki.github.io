@@ -86,6 +86,7 @@ if (!navigator.geolocation) {
     geolocate.innerHTML = 'Geolocation is not available';
 } else {
     geolocate.onclick = function (e) {
+        geolocate.innerHTML = 'Finding...';
         e.preventDefault();
         e.stopPropagation();
         map.locate();
@@ -95,6 +96,7 @@ if (!navigator.geolocation) {
 // Once we've got a position, zoom and center the map
 // on it, and add a single marker.
 map.on('locationfound', function(e) {
+    geolocate.innerHTML = 'Find me';
     var results = leafletPip.pointInLayer(e.latlng, subdistricts);
     if (results.length) {
       map.fitBounds(results[0]);
@@ -112,8 +114,9 @@ map.on('locationfound', function(e) {
         },
         properties: {
             'title': 'Here I am!',
-            'marker-color': '#ff8888',
-            'marker-symbol': 'star'
+            'marker-color': '#3764B2',
+            'marker-size': 'large',
+            'marker-symbol': 'bicycle'
         }
     });
 
