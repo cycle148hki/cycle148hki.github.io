@@ -3,7 +3,7 @@
 	<Document>
 		<name>City sub-districts_KML</name>
 		<Placemark>
-			<name>Osa-alue 457 Itäkeskus (Östra centrum)</name>
+			<name>457 Itäkeskus (Östra centrum)</name>
 			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -17,7 +17,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 010 Kruununhaka (Kronohagen)</name>
+			<name>010 Kruununhaka (Kronohagen)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -31,7 +31,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 020 Kluuvi (Gloet)</name>
+			<name>020 Kluuvi (Gloet)</name>
 			<styleUrl>#poly-62AF44-1-145-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -45,7 +45,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 030 Kaartinkaupunki (Gardesstaden)</name>
+			<name>030 Kaartinkaupunki (Gardesstaden)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -59,7 +59,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 040 Kamppi (Kampen)</name>
+			<name>040 Kamppi (Kampen)</name>
 			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -73,7 +73,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 050 Punavuori (Rödbergen)</name>
+			<name>050 Punavuori (Rödbergen)</name>
 			<styleUrl>#poly-A61B4A-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -87,7 +87,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 060 Eira (Eira)</name>
+			<name>060 Eira (Eira)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -101,7 +101,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 070 Ullanlinna (Ulrikasborg)</name>
+			<name>070 Ullanlinna (Ulrikasborg)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -115,7 +115,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 080 Katajanokka (Skatudden)</name>
+			<name>080 Katajanokka (Skatudden)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -129,7 +129,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 090 Kaivopuisto (Brunnsparken)</name>
+			<name>090 Kaivopuisto (Brunnsparken)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -143,7 +143,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 111 Siltasaari (Broholmen)</name>
+			<name>111 Siltasaari (Broholmen)</name>
 			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -157,7 +157,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 112 Linjat (Linjerna)</name>
+			<name>112 Linjat (Linjerna)</name>
 			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -171,7 +171,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 113 Torkkelinmäki (Torkelsbacken)</name>
+			<name>113 Torkkelinmäki (Torkelsbacken)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -185,7 +185,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 121 Harju (Ås)</name>
+			<name>121 Harju (Ås)</name>
 			<styleUrl>#poly-62AF44-1-150-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -199,7 +199,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 122 Alppila (Alphyddan)</name>
+			<name>122 Alppila (Alphyddan)</name>
 			<styleUrl>#poly-62AF44-1-140-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -213,7 +213,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 130 Etu-Töölö (Främre Tölö)</name>
+			<name>130 Etu-Töölö (Främre Tölö)</name>
 			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -227,7 +227,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 140 Taka-Töölö (Bortre Tölö)</name>
+			<name>140 Taka-Töölö (Bortre Tölö)</name>
 			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -241,7 +241,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 150 Meilahti (Mejlans)</name>
+			<name>150 Meilahti (Mejlans)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -255,7 +255,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 171 Länsi-Pasila (Västra Böle)</name>
+			<name>171 Länsi-Pasila (Västra Böle)</name>
 			<styleUrl>#poly-62AF44-1-153-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -269,7 +269,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 172 Pohjois-Pasila (Norra Böle)</name>
+			<name>172 Pohjois-Pasila (Norra Böle)</name>
 			<styleUrl>#poly-62AF44-1-145-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -283,7 +283,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 173 Itä-Pasila (Östra Böle)</name>
+			<name>173 Itä-Pasila (Östra Böle)</name>
 			<styleUrl>#poly-62AF44-1-145-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -297,7 +297,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 174 Keski-Pasila (Mellersta Böle)</name>
+			<name>174 Keski-Pasila (Mellersta Böle)</name>
 			<styleUrl>#poly-62AF44-1-135-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -311,7 +311,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 180 Laakso (Dal)</name>
+			<name>180 Laakso (Dal)</name>
 			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -325,7 +325,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 190 Mustikkamaa-Korkeasaari (Blåbärslandet-Högholmen)</name>
+			<name>190 Mustikkamaa-Korkeasaari (Blåbärslandet-Högholmen)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -339,7 +339,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 201 Ruoholahti (Gräsviken)</name>
+			<name>201 Ruoholahti (Gräsviken)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -353,7 +353,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 202 Lapinlahti (Lappviken)</name>
+			<name>202 Lapinlahti (Lappviken)</name>
 			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -367,7 +367,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 203 Jätkäsaari (Busholmen)</name>
+			<name>203 Jätkäsaari (Busholmen)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -381,7 +381,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 204 Hernesaari (Ärtholmen)</name>
+			<name>204 Hernesaari (Ärtholmen)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -395,7 +395,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 220 Vallila (Vallgård)</name>
+			<name>220 Vallila (Vallgård)</name>
 			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -409,7 +409,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 231 Toukola (Majstad)</name>
+			<name>231 Toukola (Majstad)</name>
 			<styleUrl>#poly-62AF44-1-153-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -423,7 +423,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 232 Arabianranta (Arabiastranden)</name>
+			<name>232 Arabianranta (Arabiastranden)</name>
 			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -437,7 +437,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 240 Kumpula (Gumtäkt)</name>
+			<name>240 Kumpula (Gumtäkt)</name>
 			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -451,7 +451,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 250 Käpylä (Kottby)</name>
+			<name>250 Käpylä (Kottby)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -465,7 +465,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 260 Koskela (Forsby)</name>
+			<name>260 Koskela (Forsby)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -479,7 +479,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 270 Vanhakaupunki (Gammelstaden)</name>
+			<name>270 Vanhakaupunki (Gammelstaden)</name>
 			<styleUrl>#poly-62AF44-1-150-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -493,7 +493,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 281 Pirkkola (Britas)</name>
+			<name>281 Pirkkola (Britas)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -507,7 +507,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 282 Maunula (Månsas)</name>
+			<name>282 Maunula (Månsas)</name>
 			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -521,7 +521,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 283 Metsälä (Krämertsskog)</name>
+			<name>283 Metsälä (Krämertsskog)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -535,7 +535,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 284 Patola (Dammen)</name>
+			<name>284 Patola (Dammen)</name>
 			<styleUrl>#poly-62AF44-1-147-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -549,7 +549,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 285 Veräjämäki (Grindbacka)</name>
+			<name>285 Veräjämäki (Grindbacka)</name>
 			<styleUrl>#poly-62AF44-1-119-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -563,7 +563,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 286 Maunulanpuisto (Månsasparken)</name>
+			<name>286 Maunulanpuisto (Månsasparken)</name>
 			<styleUrl>#poly-62AF44-1-122-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -577,7 +577,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 287 Veräjälaakso (Grinddal)</name>
+			<name>287 Veräjälaakso (Grinddal)</name>
 			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -591,7 +591,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 291 Etelä-Haaga (Södra Haga)</name>
+			<name>291 Etelä-Haaga (Södra Haga)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -605,7 +605,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 292 Kivihaka (Stenhagen)</name>
+			<name>292 Kivihaka (Stenhagen)</name>
 			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -619,7 +619,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 293 Pohjois-Haaga (Norra Haga)</name>
+			<name>293 Pohjois-Haaga (Norra Haga)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -633,7 +633,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 294 Lassila (Lassas)</name>
+			<name>294 Lassila (Lassas)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -647,7 +647,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 301 Vanha Munkkiniemi (Gamla Munksnäs)</name>
+			<name>301 Vanha Munkkiniemi (Gamla Munksnäs)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -661,7 +661,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 302 Kuusisaari (Granö)</name>
+			<name>302 Kuusisaari (Granö)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -675,7 +675,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 303 Lehtisaari (Lövö)</name>
+			<name>303 Lehtisaari (Lövö)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -689,7 +689,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 304 Munkkivuori (Munkshöjden)</name>
+			<name>304 Munkkivuori (Munkshöjden)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -703,7 +703,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 305 Niemenmäki (Näshöjden)</name>
+			<name>305 Niemenmäki (Näshöjden)</name>
 			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -717,7 +717,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 306 Talinranta (Talistranden)</name>
+			<name>306 Talinranta (Talistranden)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -731,7 +731,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 320 Konala (Kånala)</name>
+			<name>320 Konala (Kånala)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -745,7 +745,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 331 Kannelmäki (Gamlas)</name>
+			<name>331 Kannelmäki (Gamlas)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -759,7 +759,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 332 Maununneva (Magnuskärr)</name>
+			<name>332 Maununneva (Magnuskärr)</name>
 			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -773,7 +773,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 333 Malminkartano (Malmgård)</name>
+			<name>333 Malminkartano (Malmgård)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -787,7 +787,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 334 Hakuninmaa (Håkansåker)</name>
+			<name>334 Hakuninmaa (Håkansåker)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -801,7 +801,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 335 Kuninkaantammi (Kungseken)</name>
+			<name>335 Kuninkaantammi (Kungseken)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -815,7 +815,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 341 Länsi-Pakila (Västra Baggböle)</name>
+			<name>341 Länsi-Pakila (Västra Baggböle)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -829,7 +829,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 342 Itä-Pakila (Östra Baggböle)</name>
+			<name>342 Itä-Pakila (Östra Baggböle)</name>
 			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -843,7 +843,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 351 Paloheinä (Svedängen)</name>
+			<name>351 Paloheinä (Svedängen)</name>
 			<styleUrl>#poly-62AF44-1-135-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -857,7 +857,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 352 Torpparinmäki (Torparbacken)</name>
+			<name>352 Torpparinmäki (Torparbacken)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -871,7 +871,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 353 Tuomarinkartano (Domargård)</name>
+			<name>353 Tuomarinkartano (Domargård)</name>
 			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -885,7 +885,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 354 Haltiala (Tomtbacka)</name>
+			<name>354 Haltiala (Tomtbacka)</name>
 			<styleUrl>#poly-62AF44-1-127-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -899,7 +899,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 361 Viikinranta (Viksstranden)</name>
+			<name>361 Viikinranta (Viksstranden)</name>
 			<styleUrl>#poly-62AF44-1-145-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -913,7 +913,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 362 Latokartano (Ladugården)</name>
+			<name>362 Latokartano (Ladugården)</name>
 			<styleUrl>#poly-62AF44-1-127-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -927,7 +927,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 363 Viikin tiedepuisto (Viks forskarpark)</name>
+			<name>363 Viikin tiedepuisto (Viks forskarpark)</name>
 			<styleUrl>#poly-62AF44-1-140-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -941,7 +941,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 364 Viikinmäki (Viksbacka)</name>
+			<name>364 Viikinmäki (Viksbacka)</name>
 			<styleUrl>#poly-62AF44-1-140-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -955,7 +955,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 370 Pukinmäki (Bocksbacka)</name>
+			<name>370 Pukinmäki (Bocksbacka)</name>
 			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -969,7 +969,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 381 Ylä-Malmi (Övre Malm)</name>
+			<name>381 Ylä-Malmi (Övre Malm)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -983,7 +983,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 382 Ala-Malmi (Nedre Malm)</name>
+			<name>382 Ala-Malmi (Nedre Malm)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -997,7 +997,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 383 Pihlajamäki (Rönnbacka)</name>
+			<name>383 Pihlajamäki (Rönnbacka)</name>
 			<styleUrl>#poly-62AF44-1-140-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1011,7 +1011,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 384 Tattariharju (Tattaråsen)</name>
+			<name>384 Tattariharju (Tattaråsen)</name>
 			<styleUrl>#poly-62AF44-1-135-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1025,7 +1025,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 385 Malmin lentokenttä (Malms flygfält)</name>
+			<name>385 Malmin lentokenttä (Malms flygfält)</name>
 			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1039,7 +1039,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 386 Pihlajisto (Rönninge)</name>
+			<name>386 Pihlajisto (Rönninge)</name>
 			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1053,7 +1053,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 391 Tapaninvainio (Staffansslätten)</name>
+			<name>391 Tapaninvainio (Staffansslätten)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1067,7 +1067,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 392 Tapanila (Mosabacka)</name>
+			<name>392 Tapanila (Mosabacka)</name>
 			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1081,7 +1081,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 401 Siltamäki (Brobacka)</name>
+			<name>401 Siltamäki (Brobacka)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1095,7 +1095,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 402 Tapulikaupunki (Stapelstaden)</name>
+			<name>402 Tapulikaupunki (Stapelstaden)</name>
 			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1109,7 +1109,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 403 Töyrynummi (Lidmalmen)</name>
+			<name>403 Töyrynummi (Lidmalmen)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1123,7 +1123,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 411 Puistola (Parkstad)</name>
+			<name>411 Puistola (Parkstad)</name>
 			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1137,7 +1137,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 412 Heikinlaakso (Henriksdal)</name>
+			<name>412 Heikinlaakso (Henriksdal)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1151,7 +1151,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 413 Tattarisuo (Tattarmossen)</name>
+			<name>413 Tattarisuo (Tattarmossen)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1165,7 +1165,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 414 Jakomäki (Jakobacka)</name>
+			<name>414 Jakomäki (Jakobacka)</name>
 			<styleUrl>#poly-62AF44-1-135-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1179,7 +1179,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 420 Kulosaari (Brändö)</name>
+			<name>420 Kulosaari (Brändö)</name>
 			<styleUrl>#poly-62AF44-1-122-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1193,7 +1193,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 431 Länsi-Herttoniemi (Västra Hertonäs)</name>
+			<name>431 Länsi-Herttoniemi (Västra Hertonäs)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1207,7 +1207,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 432 Roihuvuori (Kasberget)</name>
+			<name>432 Roihuvuori (Kasberget)</name>
 			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1221,7 +1221,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 433 Herttoniemen yritysalue (Hertonäs företagsområde)</name>
+			<name>433 Herttoniemen yritysalue (Hertonäs företagsområde)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1235,7 +1235,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 434 Herttoniemenranta (Hertonäs strand)</name>
+			<name>434 Herttoniemenranta (Hertonäs strand)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1249,7 +1249,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 440 Tammisalo (Tammelund)</name>
+			<name>440 Tammisalo (Tammelund)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1263,7 +1263,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 451 Vartioharju (Botbyåsen)</name>
+			<name>451 Vartioharju (Botbyåsen)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1277,7 +1277,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 452 Puotila (Botby gård)</name>
+			<name>452 Puotila (Botby gård)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1291,7 +1291,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 453 Puotinharju (Botbyhöjden)</name>
+			<name>453 Puotinharju (Botbyhöjden)</name>
 			<styleUrl>#poly-62AF44-1-135-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1305,7 +1305,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 454 Myllypuro (Kvarnbäcken)</name>
+			<name>454 Myllypuro (Kvarnbäcken)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1319,7 +1319,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 455 Marjaniemi (Marudd)</name>
+			<name>455 Marjaniemi (Marudd)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1333,7 +1333,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 456 Roihupelto (Kasåkern)</name>
+			<name>456 Roihupelto (Kasåkern)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1347,7 +1347,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 461 Pajamäki (Smedjebacka)</name>
+			<name>461 Pajamäki (Smedjebacka)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1361,7 +1361,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 462 Tali (Tali)</name>
+			<name>462 Tali (Tali)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1375,7 +1375,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 463 Reimarla (Reimars)</name>
+			<name>463 Reimarla (Reimars)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1389,7 +1389,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 464 Marttila (Martas)</name>
+			<name>464 Marttila (Martas)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1403,7 +1403,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 465 Pitäjänmäen yritysalue (Sockenbacka företagsområde)</name>
+			<name>465 Pitäjänmäen yritysalue (Sockenbacka företagsområde)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1417,7 +1417,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 471 Kontula (Gårdsbacka)</name>
+			<name>471 Kontula (Gårdsbacka)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1431,7 +1431,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 472 Vesala (Ärvings)</name>
+			<name>472 Vesala (Ärvings)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1445,7 +1445,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 473 Mellunmäki (Mellungsbacka)</name>
+			<name>473 Mellunmäki (Mellungsbacka)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1459,7 +1459,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 474 Kivikko (Stensböle)</name>
+			<name>474 Kivikko (Stensböle)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1473,7 +1473,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 475 Kurkimäki (Tranbacka)</name>
+			<name>475 Kurkimäki (Tranbacka)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1487,7 +1487,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 480 Vartiosaari (Vårdö)</name>
+			<name>480 Vartiosaari (Vårdö)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1501,7 +1501,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 491 Yliskylä (Uppby)</name>
+			<name>491 Yliskylä (Uppby)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1515,7 +1515,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 492 Jollas (Jollas)</name>
+			<name>492 Jollas (Jollas)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1529,7 +1529,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 493 Tullisaari (Turholm)</name>
+			<name>493 Tullisaari (Turholm)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1543,7 +1543,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 494 Kruunuvuorenranta (Kronbergsstranden)</name>
+			<name>494 Kruunuvuorenranta (Kronbergsstranden)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1557,7 +1557,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 495 Hevossalmi (Hästnässund)</name>
+			<name>495 Hevossalmi (Hästnässund)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1571,7 +1571,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 500 Villinki (Villinge)</name>
+			<name>500 Villinki (Villinge)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1585,7 +1585,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 510 Santahamina (Sandhamn)</name>
+			<name>510 Santahamina (Sandhamn)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1599,7 +1599,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 520 Suomenlinna (Sveaborg)</name>
+			<name>520 Suomenlinna (Sveaborg)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1613,7 +1613,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 531 Länsisaaret (Västra holmarna)</name>
+			<name>531 Länsisaaret (Västra holmarna)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1627,7 +1627,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 532 Itäsaaret (Östra holmarna)</name>
+			<name>532 Itäsaaret (Östra holmarna)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1641,7 +1641,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 533 Aluemeri (Territorialhavet)</name>
+			<name>533 Aluemeri (Territorialhavet)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1655,7 +1655,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 541 Keski-Vuosaari (Mellersta Nordsjö)</name>
+			<name>541 Keski-Vuosaari (Mellersta Nordsjö)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1669,7 +1669,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 542 Nordsjön kartano (Nordsjö gård)</name>
+			<name>542 Nordsjön kartano (Nordsjö gård)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1683,7 +1683,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 543 Uutela (Nybondas)</name>
+			<name>543 Uutela (Nybondas)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1697,7 +1697,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 544 Meri-Rastila (Havsrastböle)</name>
+			<name>544 Meri-Rastila (Havsrastböle)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1711,7 +1711,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 545 Kallahti (Kallvik)</name>
+			<name>545 Kallahti (Kallvik)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1725,7 +1725,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 546 Aurinkolahti (Solvik)</name>
+			<name>546 Aurinkolahti (Solvik)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1739,7 +1739,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 547 Rastila (Rastböle)</name>
+			<name>547 Rastila (Rastböle)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1753,7 +1753,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 548 Niinisaari (Bastö)</name>
+			<name>548 Niinisaari (Bastö)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1767,7 +1767,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 549 Mustavuori (Svarta backen)</name>
+			<name>549 Mustavuori (Svarta backen)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1781,7 +1781,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 550 Östersundom (Östersundom)</name>
+			<name>550 Östersundom (Östersundom)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1795,7 +1795,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 560 Salmenkallio (Sundberg)</name>
+			<name>560 Salmenkallio (Sundberg)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1809,7 +1809,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 570 Talosaari (Husö)</name>
+			<name>570 Talosaari (Husö)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1823,7 +1823,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 580 Karhusaari (Björnsö)</name>
+			<name>580 Karhusaari (Björnsö)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1837,7 +1837,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 591 Landbo (Landbo)</name>
+			<name>591 Landbo (Landbo)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1851,7 +1851,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 592 Puroniitty (Bäckängen)</name>
+			<name>592 Puroniitty (Bäckängen)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1865,7 +1865,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 311 Kotkavuori (Örnberget)</name>
+			<name>311 Kotkavuori (Örnberget)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1879,7 +1879,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 312 Vattuniemi (Hallonnäs)</name>
+			<name>312 Vattuniemi (Hallonnäs)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1893,7 +1893,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 313 Myllykallio (Kvarnberget)</name>
+			<name>313 Myllykallio (Kvarnberget)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1907,7 +1907,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 314 Koivusaari (Björkholmen)</name>
+			<name>314 Koivusaari (Björkholmen)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1921,7 +1921,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 101 Vilhonvuori (Vilhemsberg)</name>
+			<name>101 Vilhonvuori (Vilhemsberg)</name>
 			<styleUrl>#poly-62AF44-1-145-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1935,7 +1935,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 102 Kalasatama (Fiskehamnen)</name>
+			<name>102 Kalasatama (Fiskehamnen)</name>
 			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1949,7 +1949,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 103 Sompasaari (Sumparn)</name>
+			<name>103 Sompasaari (Sumparn)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1963,7 +1963,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 104 Hanasaari (Hanaholmen)</name>
+			<name>104 Hanasaari (Hanaholmen)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1977,7 +1977,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 211 Hermanninmäki (Hermanstadsbacken)</name>
+			<name>211 Hermanninmäki (Hermanstadsbacken)</name>
 			<styleUrl>#poly-62AF44-1-127-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -1991,7 +1991,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 212 Hermanninranta (Hermanstadsstranden)</name>
+			<name>212 Hermanninranta (Hermanstadsstranden)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -2005,7 +2005,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 213 Kyläsaari (Byholmen)</name>
+			<name>213 Kyläsaari (Byholmen)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -2019,7 +2019,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 161 Vanha Ruskeasuo (Gamla Brunakärr)</name>
+			<name>161 Vanha Ruskeasuo (Gamla Brunakärr)</name>
 			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -2033,7 +2033,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 162 Pikku Huopalahti (Lillhoplax)</name>
+			<name>162 Pikku Huopalahti (Lillhoplax)</name>
 			<styleUrl>#poly-62AF44-1-127-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -2047,7 +2047,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 336 Honkasuo (Hongasmossa)</name>
+			<name>336 Honkasuo (Hongasmossa)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
@@ -2061,7 +2061,7 @@
 			</Polygon>
 		</Placemark>
 		<Placemark>
-			<name>Osa-alue 415 Alppikylä (Alpbyn)</name>
+			<name>415 Alppikylä (Alpbyn)</name>
 			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
 			<ExtendedData>
 			</ExtendedData>
