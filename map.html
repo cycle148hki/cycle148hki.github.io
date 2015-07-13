@@ -3,26 +3,27 @@
 <head>
 <meta charset=utf-8 />
 <title>Helsinki sub-districts</title>
+<!--[if IE]><link rel="shortcut icon" href="favicon.ico"><![endif]-->
+<link rel="icon" href="favicon.png">
 <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 <script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
 <link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
 <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-pip/v0.1.0/leaflet-pip.min.js'></script>
 <style>
-  body { margin:0; padding:0; }
+  body { font-family: Arial; margin:0; padding:0; }
   #map { position:absolute; top:0; bottom:0; width:100%; }
   .ui-button {
   background:#3887BE;
-  color:#FFF;
-  display:block;
-  position:absolute;
-  top:50%;left:50%;
-  width:160px;
-  margin:-20px 0 0 -80px;
-  z-index:100;
-  text-align:center;
-  padding:10px;
   border:1px solid rgba(0,0,0,0.4);
   border-radius:3px;
+  color:#FFF;
+  display:block;
+  padding:10px;
+  position:absolute;
+  text-align:center;
+  top:10px;
+  left:50px;
+  z-index:100;
   }
   .ui-button:hover {
     background:#3074a4;
@@ -36,10 +37,10 @@
   }
   .label strong {
     background:#404040;
+    border-radius:3px;
     color:#fff;
     display:block;
     padding:10px;
-    border-radius:3px;
     }
 </style>
 </head>
@@ -69,6 +70,10 @@ var myLayer = L.mapbox.featureLayer().addTo(map);
 var subdistricts = omnivore.kml('subdistricts.kml')
     .on('ready', function() {
         map.fitBounds(subdistricts.getBounds());
+        this.setStyle({
+          color: "green",
+          fill: false
+        });
     })
     .addTo(map);
 
@@ -92,7 +97,6 @@ if (!navigator.geolocation) {
 map.on('locationfound', function(e) {
     var results = leafletPip.pointInLayer(e.latlng, subdistricts);
     if (results.length) {
-      console.log(results[0].feature.properties.name);
       map.fitBounds(results[0]);
       label.innerHTML = '<strong>' + results[0].feature.properties.name + '</strong>';
     } else {
@@ -114,7 +118,7 @@ map.on('locationfound', function(e) {
     });
 
     // And hide the geolocation button
-    geolocate.parentNode.removeChild(geolocate);
+    // geolocate.parentNode.removeChild(geolocate);
 });
 
 // If the user chooses not to allow their location
