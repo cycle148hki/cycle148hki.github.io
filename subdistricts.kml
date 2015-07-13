@@ -4,9 +4,6 @@
 		<name>City sub-districts_KML</name>
 		<Placemark>
 			<name>457 Itäkeskus (Östra centrum)</name>
-			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -18,9 +15,6 @@
 		</Placemark>
 		<Placemark>
 			<name>010 Kruununhaka (Kronohagen)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -32,9 +26,6 @@
 		</Placemark>
 		<Placemark>
 			<name>020 Kluuvi (Gloet)</name>
-			<styleUrl>#poly-62AF44-1-145-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -46,9 +37,6 @@
 		</Placemark>
 		<Placemark>
 			<name>030 Kaartinkaupunki (Gardesstaden)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -60,9 +48,6 @@
 		</Placemark>
 		<Placemark>
 			<name>040 Kamppi (Kampen)</name>
-			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -74,9 +59,6 @@
 		</Placemark>
 		<Placemark>
 			<name>050 Punavuori (Rödbergen)</name>
-			<styleUrl>#poly-A61B4A-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -88,9 +70,6 @@
 		</Placemark>
 		<Placemark>
 			<name>060 Eira (Eira)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -102,9 +81,6 @@
 		</Placemark>
 		<Placemark>
 			<name>070 Ullanlinna (Ulrikasborg)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -116,9 +92,6 @@
 		</Placemark>
 		<Placemark>
 			<name>080 Katajanokka (Skatudden)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -130,9 +103,6 @@
 		</Placemark>
 		<Placemark>
 			<name>090 Kaivopuisto (Brunnsparken)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -144,9 +114,6 @@
 		</Placemark>
 		<Placemark>
 			<name>111 Siltasaari (Broholmen)</name>
-			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -158,9 +125,6 @@
 		</Placemark>
 		<Placemark>
 			<name>112 Linjat (Linjerna)</name>
-			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -172,9 +136,6 @@
 		</Placemark>
 		<Placemark>
 			<name>113 Torkkelinmäki (Torkelsbacken)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -186,9 +147,6 @@
 		</Placemark>
 		<Placemark>
 			<name>121 Harju (Ås)</name>
-			<styleUrl>#poly-62AF44-1-150-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -200,9 +158,6 @@
 		</Placemark>
 		<Placemark>
 			<name>122 Alppila (Alphyddan)</name>
-			<styleUrl>#poly-62AF44-1-140-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -214,9 +169,6 @@
 		</Placemark>
 		<Placemark>
 			<name>130 Etu-Töölö (Främre Tölö)</name>
-			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -228,9 +180,6 @@
 		</Placemark>
 		<Placemark>
 			<name>140 Taka-Töölö (Bortre Tölö)</name>
-			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -242,9 +191,6 @@
 		</Placemark>
 		<Placemark>
 			<name>150 Meilahti (Mejlans)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -256,9 +202,6 @@
 		</Placemark>
 		<Placemark>
 			<name>171 Länsi-Pasila (Västra Böle)</name>
-			<styleUrl>#poly-62AF44-1-153-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -270,9 +213,6 @@
 		</Placemark>
 		<Placemark>
 			<name>172 Pohjois-Pasila (Norra Böle)</name>
-			<styleUrl>#poly-62AF44-1-145-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -284,9 +224,6 @@
 		</Placemark>
 		<Placemark>
 			<name>173 Itä-Pasila (Östra Böle)</name>
-			<styleUrl>#poly-62AF44-1-145-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -298,9 +235,6 @@
 		</Placemark>
 		<Placemark>
 			<name>174 Keski-Pasila (Mellersta Böle)</name>
-			<styleUrl>#poly-62AF44-1-135-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -312,9 +246,6 @@
 		</Placemark>
 		<Placemark>
 			<name>180 Laakso (Dal)</name>
-			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -326,9 +257,6 @@
 		</Placemark>
 		<Placemark>
 			<name>190 Mustikkamaa-Korkeasaari (Blåbärslandet-Högholmen)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -340,9 +268,6 @@
 		</Placemark>
 		<Placemark>
 			<name>201 Ruoholahti (Gräsviken)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -354,9 +279,6 @@
 		</Placemark>
 		<Placemark>
 			<name>202 Lapinlahti (Lappviken)</name>
-			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -368,9 +290,6 @@
 		</Placemark>
 		<Placemark>
 			<name>203 Jätkäsaari (Busholmen)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -382,9 +301,6 @@
 		</Placemark>
 		<Placemark>
 			<name>204 Hernesaari (Ärtholmen)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -396,9 +312,6 @@
 		</Placemark>
 		<Placemark>
 			<name>220 Vallila (Vallgård)</name>
-			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -410,9 +323,6 @@
 		</Placemark>
 		<Placemark>
 			<name>231 Toukola (Majstad)</name>
-			<styleUrl>#poly-62AF44-1-153-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -424,9 +334,6 @@
 		</Placemark>
 		<Placemark>
 			<name>232 Arabianranta (Arabiastranden)</name>
-			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -438,9 +345,6 @@
 		</Placemark>
 		<Placemark>
 			<name>240 Kumpula (Gumtäkt)</name>
-			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -452,9 +356,6 @@
 		</Placemark>
 		<Placemark>
 			<name>250 Käpylä (Kottby)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -466,9 +367,6 @@
 		</Placemark>
 		<Placemark>
 			<name>260 Koskela (Forsby)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -480,9 +378,6 @@
 		</Placemark>
 		<Placemark>
 			<name>270 Vanhakaupunki (Gammelstaden)</name>
-			<styleUrl>#poly-62AF44-1-150-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -494,9 +389,6 @@
 		</Placemark>
 		<Placemark>
 			<name>281 Pirkkola (Britas)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -508,9 +400,6 @@
 		</Placemark>
 		<Placemark>
 			<name>282 Maunula (Månsas)</name>
-			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -522,9 +411,6 @@
 		</Placemark>
 		<Placemark>
 			<name>283 Metsälä (Krämertsskog)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -536,9 +422,6 @@
 		</Placemark>
 		<Placemark>
 			<name>284 Patola (Dammen)</name>
-			<styleUrl>#poly-62AF44-1-147-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -550,9 +433,6 @@
 		</Placemark>
 		<Placemark>
 			<name>285 Veräjämäki (Grindbacka)</name>
-			<styleUrl>#poly-62AF44-1-119-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -564,9 +444,6 @@
 		</Placemark>
 		<Placemark>
 			<name>286 Maunulanpuisto (Månsasparken)</name>
-			<styleUrl>#poly-62AF44-1-122-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -578,9 +455,6 @@
 		</Placemark>
 		<Placemark>
 			<name>287 Veräjälaakso (Grinddal)</name>
-			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -592,9 +466,6 @@
 		</Placemark>
 		<Placemark>
 			<name>291 Etelä-Haaga (Södra Haga)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -606,9 +477,6 @@
 		</Placemark>
 		<Placemark>
 			<name>292 Kivihaka (Stenhagen)</name>
-			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -620,9 +488,6 @@
 		</Placemark>
 		<Placemark>
 			<name>293 Pohjois-Haaga (Norra Haga)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -634,9 +499,6 @@
 		</Placemark>
 		<Placemark>
 			<name>294 Lassila (Lassas)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -648,9 +510,6 @@
 		</Placemark>
 		<Placemark>
 			<name>301 Vanha Munkkiniemi (Gamla Munksnäs)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -662,9 +521,6 @@
 		</Placemark>
 		<Placemark>
 			<name>302 Kuusisaari (Granö)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -676,9 +532,6 @@
 		</Placemark>
 		<Placemark>
 			<name>303 Lehtisaari (Lövö)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -690,9 +543,6 @@
 		</Placemark>
 		<Placemark>
 			<name>304 Munkkivuori (Munkshöjden)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -704,9 +554,6 @@
 		</Placemark>
 		<Placemark>
 			<name>305 Niemenmäki (Näshöjden)</name>
-			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -718,9 +565,6 @@
 		</Placemark>
 		<Placemark>
 			<name>306 Talinranta (Talistranden)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -732,9 +576,6 @@
 		</Placemark>
 		<Placemark>
 			<name>320 Konala (Kånala)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -746,9 +587,6 @@
 		</Placemark>
 		<Placemark>
 			<name>331 Kannelmäki (Gamlas)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -760,9 +598,6 @@
 		</Placemark>
 		<Placemark>
 			<name>332 Maununneva (Magnuskärr)</name>
-			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -774,9 +609,6 @@
 		</Placemark>
 		<Placemark>
 			<name>333 Malminkartano (Malmgård)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -788,9 +620,6 @@
 		</Placemark>
 		<Placemark>
 			<name>334 Hakuninmaa (Håkansåker)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -802,9 +631,6 @@
 		</Placemark>
 		<Placemark>
 			<name>335 Kuninkaantammi (Kungseken)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -816,9 +642,6 @@
 		</Placemark>
 		<Placemark>
 			<name>341 Länsi-Pakila (Västra Baggböle)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -830,9 +653,6 @@
 		</Placemark>
 		<Placemark>
 			<name>342 Itä-Pakila (Östra Baggböle)</name>
-			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -844,9 +664,6 @@
 		</Placemark>
 		<Placemark>
 			<name>351 Paloheinä (Svedängen)</name>
-			<styleUrl>#poly-62AF44-1-135-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -858,9 +675,6 @@
 		</Placemark>
 		<Placemark>
 			<name>352 Torpparinmäki (Torparbacken)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -872,9 +686,6 @@
 		</Placemark>
 		<Placemark>
 			<name>353 Tuomarinkartano (Domargård)</name>
-			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -886,9 +697,6 @@
 		</Placemark>
 		<Placemark>
 			<name>354 Haltiala (Tomtbacka)</name>
-			<styleUrl>#poly-62AF44-1-127-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -900,9 +708,6 @@
 		</Placemark>
 		<Placemark>
 			<name>361 Viikinranta (Viksstranden)</name>
-			<styleUrl>#poly-62AF44-1-145-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -914,9 +719,6 @@
 		</Placemark>
 		<Placemark>
 			<name>362 Latokartano (Ladugården)</name>
-			<styleUrl>#poly-62AF44-1-127-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -928,9 +730,6 @@
 		</Placemark>
 		<Placemark>
 			<name>363 Viikin tiedepuisto (Viks forskarpark)</name>
-			<styleUrl>#poly-62AF44-1-140-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -942,9 +741,6 @@
 		</Placemark>
 		<Placemark>
 			<name>364 Viikinmäki (Viksbacka)</name>
-			<styleUrl>#poly-62AF44-1-140-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -956,9 +752,6 @@
 		</Placemark>
 		<Placemark>
 			<name>370 Pukinmäki (Bocksbacka)</name>
-			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -970,9 +763,6 @@
 		</Placemark>
 		<Placemark>
 			<name>381 Ylä-Malmi (Övre Malm)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -984,9 +774,6 @@
 		</Placemark>
 		<Placemark>
 			<name>382 Ala-Malmi (Nedre Malm)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -998,9 +785,6 @@
 		</Placemark>
 		<Placemark>
 			<name>383 Pihlajamäki (Rönnbacka)</name>
-			<styleUrl>#poly-62AF44-1-140-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1012,9 +796,6 @@
 		</Placemark>
 		<Placemark>
 			<name>384 Tattariharju (Tattaråsen)</name>
-			<styleUrl>#poly-62AF44-1-135-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1026,9 +807,6 @@
 		</Placemark>
 		<Placemark>
 			<name>385 Malmin lentokenttä (Malms flygfält)</name>
-			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1040,9 +818,6 @@
 		</Placemark>
 		<Placemark>
 			<name>386 Pihlajisto (Rönninge)</name>
-			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1054,9 +829,6 @@
 		</Placemark>
 		<Placemark>
 			<name>391 Tapaninvainio (Staffansslätten)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1068,9 +840,6 @@
 		</Placemark>
 		<Placemark>
 			<name>392 Tapanila (Mosabacka)</name>
-			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1082,9 +851,6 @@
 		</Placemark>
 		<Placemark>
 			<name>401 Siltamäki (Brobacka)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1096,9 +862,6 @@
 		</Placemark>
 		<Placemark>
 			<name>402 Tapulikaupunki (Stapelstaden)</name>
-			<styleUrl>#poly-62AF44-1-142-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1110,9 +873,6 @@
 		</Placemark>
 		<Placemark>
 			<name>403 Töyrynummi (Lidmalmen)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1124,9 +884,6 @@
 		</Placemark>
 		<Placemark>
 			<name>411 Puistola (Parkstad)</name>
-			<styleUrl>#poly-62AF44-1-124-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1138,9 +895,6 @@
 		</Placemark>
 		<Placemark>
 			<name>412 Heikinlaakso (Henriksdal)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1152,9 +906,6 @@
 		</Placemark>
 		<Placemark>
 			<name>413 Tattarisuo (Tattarmossen)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1166,9 +917,6 @@
 		</Placemark>
 		<Placemark>
 			<name>414 Jakomäki (Jakobacka)</name>
-			<styleUrl>#poly-62AF44-1-135-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1180,9 +928,6 @@
 		</Placemark>
 		<Placemark>
 			<name>420 Kulosaari (Brändö)</name>
-			<styleUrl>#poly-62AF44-1-122-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1194,9 +939,6 @@
 		</Placemark>
 		<Placemark>
 			<name>431 Länsi-Herttoniemi (Västra Hertonäs)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1208,9 +950,6 @@
 		</Placemark>
 		<Placemark>
 			<name>432 Roihuvuori (Kasberget)</name>
-			<styleUrl>#poly-62AF44-1-137-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1222,9 +961,6 @@
 		</Placemark>
 		<Placemark>
 			<name>433 Herttoniemen yritysalue (Hertonäs företagsområde)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1236,9 +972,6 @@
 		</Placemark>
 		<Placemark>
 			<name>434 Herttoniemenranta (Hertonäs strand)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1250,9 +983,6 @@
 		</Placemark>
 		<Placemark>
 			<name>440 Tammisalo (Tammelund)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1264,9 +994,6 @@
 		</Placemark>
 		<Placemark>
 			<name>451 Vartioharju (Botbyåsen)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1278,9 +1005,6 @@
 		</Placemark>
 		<Placemark>
 			<name>452 Puotila (Botby gård)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1292,9 +1016,6 @@
 		</Placemark>
 		<Placemark>
 			<name>453 Puotinharju (Botbyhöjden)</name>
-			<styleUrl>#poly-62AF44-1-135-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1306,9 +1027,6 @@
 		</Placemark>
 		<Placemark>
 			<name>454 Myllypuro (Kvarnbäcken)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1320,9 +1038,6 @@
 		</Placemark>
 		<Placemark>
 			<name>455 Marjaniemi (Marudd)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1334,9 +1049,6 @@
 		</Placemark>
 		<Placemark>
 			<name>456 Roihupelto (Kasåkern)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1348,9 +1060,6 @@
 		</Placemark>
 		<Placemark>
 			<name>461 Pajamäki (Smedjebacka)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1362,9 +1071,6 @@
 		</Placemark>
 		<Placemark>
 			<name>462 Tali (Tali)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1376,9 +1082,6 @@
 		</Placemark>
 		<Placemark>
 			<name>463 Reimarla (Reimars)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1390,9 +1093,6 @@
 		</Placemark>
 		<Placemark>
 			<name>464 Marttila (Martas)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1404,9 +1104,6 @@
 		</Placemark>
 		<Placemark>
 			<name>465 Pitäjänmäen yritysalue (Sockenbacka företagsområde)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1418,9 +1115,6 @@
 		</Placemark>
 		<Placemark>
 			<name>471 Kontula (Gårdsbacka)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1432,9 +1126,6 @@
 		</Placemark>
 		<Placemark>
 			<name>472 Vesala (Ärvings)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1446,9 +1137,6 @@
 		</Placemark>
 		<Placemark>
 			<name>473 Mellunmäki (Mellungsbacka)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1460,9 +1148,6 @@
 		</Placemark>
 		<Placemark>
 			<name>474 Kivikko (Stensböle)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1474,9 +1159,6 @@
 		</Placemark>
 		<Placemark>
 			<name>475 Kurkimäki (Tranbacka)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1488,9 +1170,6 @@
 		</Placemark>
 		<Placemark>
 			<name>480 Vartiosaari (Vårdö)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1502,9 +1181,6 @@
 		</Placemark>
 		<Placemark>
 			<name>491 Yliskylä (Uppby)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1516,9 +1192,6 @@
 		</Placemark>
 		<Placemark>
 			<name>492 Jollas (Jollas)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1530,9 +1203,6 @@
 		</Placemark>
 		<Placemark>
 			<name>493 Tullisaari (Turholm)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1544,9 +1214,6 @@
 		</Placemark>
 		<Placemark>
 			<name>494 Kruunuvuorenranta (Kronbergsstranden)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1558,9 +1225,6 @@
 		</Placemark>
 		<Placemark>
 			<name>495 Hevossalmi (Hästnässund)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1572,9 +1236,6 @@
 		</Placemark>
 		<Placemark>
 			<name>500 Villinki (Villinge)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1586,9 +1247,6 @@
 		</Placemark>
 		<Placemark>
 			<name>510 Santahamina (Sandhamn)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1600,9 +1258,6 @@
 		</Placemark>
 		<Placemark>
 			<name>520 Suomenlinna (Sveaborg)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1614,9 +1269,6 @@
 		</Placemark>
 		<Placemark>
 			<name>531 Länsisaaret (Västra holmarna)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1628,9 +1280,6 @@
 		</Placemark>
 		<Placemark>
 			<name>532 Itäsaaret (Östra holmarna)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1642,9 +1291,6 @@
 		</Placemark>
 		<Placemark>
 			<name>533 Aluemeri (Territorialhavet)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1656,9 +1302,6 @@
 		</Placemark>
 		<Placemark>
 			<name>541 Keski-Vuosaari (Mellersta Nordsjö)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1670,9 +1313,6 @@
 		</Placemark>
 		<Placemark>
 			<name>542 Nordsjön kartano (Nordsjö gård)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1684,9 +1324,6 @@
 		</Placemark>
 		<Placemark>
 			<name>543 Uutela (Nybondas)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1698,9 +1335,6 @@
 		</Placemark>
 		<Placemark>
 			<name>544 Meri-Rastila (Havsrastböle)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1712,9 +1346,6 @@
 		</Placemark>
 		<Placemark>
 			<name>545 Kallahti (Kallvik)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1726,9 +1357,6 @@
 		</Placemark>
 		<Placemark>
 			<name>546 Aurinkolahti (Solvik)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1740,9 +1368,6 @@
 		</Placemark>
 		<Placemark>
 			<name>547 Rastila (Rastböle)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1754,9 +1379,6 @@
 		</Placemark>
 		<Placemark>
 			<name>548 Niinisaari (Bastö)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1768,9 +1390,6 @@
 		</Placemark>
 		<Placemark>
 			<name>549 Mustavuori (Svarta backen)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1782,9 +1401,6 @@
 		</Placemark>
 		<Placemark>
 			<name>550 Östersundom (Östersundom)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1796,9 +1412,6 @@
 		</Placemark>
 		<Placemark>
 			<name>560 Salmenkallio (Sundberg)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1810,9 +1423,6 @@
 		</Placemark>
 		<Placemark>
 			<name>570 Talosaari (Husö)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1824,9 +1434,6 @@
 		</Placemark>
 		<Placemark>
 			<name>580 Karhusaari (Björnsö)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1838,9 +1445,6 @@
 		</Placemark>
 		<Placemark>
 			<name>591 Landbo (Landbo)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1852,9 +1456,6 @@
 		</Placemark>
 		<Placemark>
 			<name>592 Puroniitty (Bäckängen)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1866,9 +1467,6 @@
 		</Placemark>
 		<Placemark>
 			<name>311 Kotkavuori (Örnberget)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1880,9 +1478,6 @@
 		</Placemark>
 		<Placemark>
 			<name>312 Vattuniemi (Hallonnäs)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1894,9 +1489,6 @@
 		</Placemark>
 		<Placemark>
 			<name>313 Myllykallio (Kvarnberget)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1908,9 +1500,6 @@
 		</Placemark>
 		<Placemark>
 			<name>314 Koivusaari (Björkholmen)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1922,9 +1511,6 @@
 		</Placemark>
 		<Placemark>
 			<name>101 Vilhonvuori (Vilhemsberg)</name>
-			<styleUrl>#poly-62AF44-1-145-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1936,9 +1522,6 @@
 		</Placemark>
 		<Placemark>
 			<name>102 Kalasatama (Fiskehamnen)</name>
-			<styleUrl>#poly-62AF44-1-130-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1950,9 +1533,6 @@
 		</Placemark>
 		<Placemark>
 			<name>103 Sompasaari (Sumparn)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1964,9 +1544,6 @@
 		</Placemark>
 		<Placemark>
 			<name>104 Hanasaari (Hanaholmen)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1978,9 +1555,6 @@
 		</Placemark>
 		<Placemark>
 			<name>211 Hermanninmäki (Hermanstadsbacken)</name>
-			<styleUrl>#poly-62AF44-1-127-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -1992,9 +1566,6 @@
 		</Placemark>
 		<Placemark>
 			<name>212 Hermanninranta (Hermanstadsstranden)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -2006,9 +1577,6 @@
 		</Placemark>
 		<Placemark>
 			<name>213 Kyläsaari (Byholmen)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -2020,9 +1588,6 @@
 		</Placemark>
 		<Placemark>
 			<name>161 Vanha Ruskeasuo (Gamla Brunakärr)</name>
-			<styleUrl>#poly-62AF44-1-132-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -2034,9 +1599,6 @@
 		</Placemark>
 		<Placemark>
 			<name>162 Pikku Huopalahti (Lillhoplax)</name>
-			<styleUrl>#poly-62AF44-1-127-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -2048,9 +1610,6 @@
 		</Placemark>
 		<Placemark>
 			<name>336 Honkasuo (Hongasmossa)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -2062,9 +1621,6 @@
 		</Placemark>
 		<Placemark>
 			<name>415 Alppikylä (Alpbyn)</name>
-			<styleUrl>#poly-FF0000-1-0-nodesc</styleUrl>
-			<ExtendedData>
-			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
@@ -2074,613 +1630,5 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Style id='poly-62AF44-1-119-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>7744AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-119-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>7744AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-119-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-119-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-119-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-122-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>7A44AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-122-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>7A44AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-122-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-122-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-122-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-124-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>7C44AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-124-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>7C44AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-124-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-124-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-124-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-127-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>7F44AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-127-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>7F44AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-127-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-127-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-127-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-130-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8244AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-130-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8244AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-130-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-130-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-130-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-132-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8444AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-132-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8444AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-132-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-132-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-132-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-135-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8744AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-135-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8744AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-135-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-135-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-135-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-137-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8944AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-137-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8944AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-137-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-137-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-137-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-140-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8C44AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-140-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8C44AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-140-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-140-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-140-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-142-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8E44AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-142-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>8E44AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-142-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-142-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-142-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-145-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>9144AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-145-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>9144AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-145-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-145-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-145-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-147-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>9344AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-147-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>9344AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-147-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-147-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-147-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-150-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>9644AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-150-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>9644AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-150-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-150-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-150-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-62AF44-1-153-nodesc-normal'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>9944AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-62AF44-1-153-nodesc-highlight'>
-			<LineStyle>
-				<color>ff44AF62</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>9944AF62</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-62AF44-1-153-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-62AF44-1-153-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-62AF44-1-153-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-A61B4A-1-0-nodesc-normal'>
-			<LineStyle>
-				<color>ff4A1BA6</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color> 04A1BA6</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-A61B4A-1-0-nodesc-highlight'>
-			<LineStyle>
-				<color>ff4A1BA6</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color> 04A1BA6</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-A61B4A-1-0-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-A61B4A-1-0-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-A61B4A-1-0-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-FF0000-1-0-nodesc-normal'>
-			<LineStyle>
-				<color>ff0000FF</color>
-				<width>1</width>
-			</LineStyle>
-			<PolyStyle>
-				<color> 00000FF</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-FF0000-1-0-nodesc-highlight'>
-			<LineStyle>
-				<color>ff0000FF</color>
-				<width>2.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color> 00000FF</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-FF0000-1-0-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-FF0000-1-0-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-FF0000-1-0-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 	</Document>
 </kml>
