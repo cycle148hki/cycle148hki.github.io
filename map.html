@@ -1,134 +1,143 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset=utf-8 />
-<title>Helsinki sub-districts</title>
-<!--[if IE]><link rel="shortcut icon" href="favicon.ico"><![endif]-->
-<link rel="icon" href="favicon.png">
-<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-<script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
-<link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
-<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-pip/v0.1.0/leaflet-pip.min.js'></script>
-<style>
-  body { font-family: Arial; margin:0; padding:0; }
-  #map { position:absolute; top:0; bottom:0; width:100%; }
-  .ui-button {
-  background:#3887BE;
-  border:1px solid rgba(0,0,0,0.4);
-  border-radius:3px;
-  color:#FFF;
-  display:block;
-  padding:10px;
-  position:absolute;
-  text-align:center;
-  top:10px;
-  left:50px;
-  z-index:100;
-  }
-  .ui-button:hover {
-    background:#3074a4;
-    color:#fff;
-  }
-  .label {
-  position:absolute;
-  bottom:10px;
-  right:10px;
-  z-index:1000;
-  }
-  .label strong {
-    background:#404040;
-    border-radius:3px;
-    color:#fff;
-    display:block;
-    padding:10px;
-    }
-</style>
-</head>
-<body>
-<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+  <head>
+    <meta charset=utf-8 />
+    <title>Helsinki sub-districts</title>
+    <!--[if IE]><link rel="shortcut icon" href="favicon.ico"><![endif]-->
+    <link rel="icon" href="favicon.png">
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-pip/v0.1.0/leaflet-pip.min.js'></script>
+    <style>
+      body {
+        font-family: Arial;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      }
+      .ui-button {
+        background: #3887BE;
+        border: 1px solid rgba(0,0,0,0.4);
+        border-radius: 3px;
+        color: #FFF;
+        display: block;
+        padding: 10px;
+        position: absolute;
+        text-align: center;
+        top: 10px;
+        left: 50px;
+        z-index: 100;
+      }
+      .ui-button:hover {
+        background: #3074a4;
+        color: #fff;
+      }
+      .label {
+        position: absolute;
+        bottom:10px;
+        right: 10px;
+        z-index: 1000;
+      }
+      .label strong {
+        background: #404040;
+        border-radius: 3px;
+        color: #fff;
+        display: block;
+        padding: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
 
-<div id='map'></div>
-<a href='#' id='geolocate' class='ui-button'>Find me</a>
-<div id='label' class='label'></div>
+    <div id='map'></div>
+    <a href='#' id='geolocate' class='ui-button'>Find me</a>
+    <div id='label' class='label'></div>
 
-<script>
-L.mapbox.accessToken = 'pk.eyJ1IjoiaHVnb3ZrIiwiYSI6ImY2MjkwNGNlMzUwNDM3ZGQ1NGJkNjM2Y2IwYjYyYTE5In0.EB0cLP2_gYi4pxYAiUn6Mg';
-var geolocate = document.getElementById('geolocate');
-var map = L.mapbox.map('map', 'mapbox.streets');
-map.setView(new L.LatLng(60.1708, -24.9375), 11);
+    <script>
+      L.mapbox.accessToken = 'pk.eyJ1IjoiaHVnb3ZrIiwiYSI6ImY2MjkwNGNlMzUwNDM3ZGQ1NGJkNjM2Y2IwYjYyYTE5In0.EB0cLP2_gYi4pxYAiUn6Mg';
+      var geolocate = document.getElementById('geolocate');
+      var map = L.mapbox.map('map', 'mapbox.streets');
+      map.setView(new L.LatLng(60.1708, -24.9375), 11);
 
-var myLayer = L.mapbox.featureLayer().addTo(map);
+      var myLayer = L.mapbox.featureLayer().addTo(map);
 
-// omnivore will AJAX-request this file behind the scenes and parse it:
-// note that there are considerations:
-// - The file must either be on the same domain as the page that requests it,
-//   or both the server it is requested from and the user's browser must
-//   support CORS.
+      // omnivore will AJAX-request this file behind the scenes and parse it:
+      // note that there are considerations:
+      // - The file must either be on the same domain as the page that requests it,
+      //   or both the server it is requested from and the user's browser must
+      //   support CORS.
 
-// Internally this uses the toGeoJSON library to decode the KML file
-// into GeoJSON
-var subdistricts = omnivore.kml('subdistricts.kml')
-    .on('ready', function() {
-        map.fitBounds(subdistricts.getBounds());
-        this.setStyle({
-          color: "green",
-          fill: false
-        });
-    })
-    .addTo(map);
+      // Internally this uses the toGeoJSON library to decode the KML file
+      // into GeoJSON
+      var subdistricts = omnivore.kml('subdistricts.kml')
+          .on('ready', function() {
+              map.fitBounds(subdistricts.getBounds());
+              this.setStyle({
+                color: "green",
+                fill: false
+              });
+          })
+          .addTo(map);
 
-// This uses the HTML5 geolocation API, which is available on
-// most mobile browsers and modern browsers, but not in Internet Explorer
-//
-// See this chart of compatibility for details:
-// http://caniuse.com/#feat=geolocation
-if (!navigator.geolocation) {
-    geolocate.innerHTML = 'Geolocation is not available';
-} else {
-    geolocate.onclick = function (e) {
-        geolocate.innerHTML = 'Finding...';
-        e.preventDefault();
-        e.stopPropagation();
-        map.locate();
-    };
-}
+      // This uses the HTML5 geolocation API, which is available on
+      // most mobile browsers and modern browsers, but not in Internet Explorer
+      //
+      // See this chart of compatibility for details:
+      // http://caniuse.com/#feat=geolocation
+      if (!navigator.geolocation) {
+          geolocate.innerHTML = 'Geolocation is not available';
+      } else {
+          geolocate.onclick = function (e) {
+              geolocate.innerHTML = 'Finding...';
+              e.preventDefault();
+              e.stopPropagation();
+              map.locate();
+          };
+      }
 
-// Once we've got a position, zoom and center the map
-// on it, and add a single marker.
-map.on('locationfound', function(e) {
-    geolocate.innerHTML = 'Find me';
-    var results = leafletPip.pointInLayer(e.latlng, subdistricts);
-    if (results.length) {
-      map.fitBounds(results[0]);
-      label.innerHTML = '<strong>' + results[0].feature.properties.name + '</strong>';
-    } else {
-      map.fitBounds(e.bounds);
-      label.innerHTML = '';
-    }
+      // Once we've got a position, zoom and center the map
+      // on it, and add a single marker.
+      map.on('locationfound', function(e) {
+          geolocate.innerHTML = 'Find me';
+          var results = leafletPip.pointInLayer(e.latlng, subdistricts);
+          if (results.length) {
+            map.fitBounds(results[0]);
+            label.innerHTML = '<strong>' + results[0].feature.properties.name + '</strong>';
+          } else {
+            map.fitBounds(e.bounds);
+            label.innerHTML = '';
+          }
 
-    myLayer.setGeoJSON({
-        type: 'Feature',
-        geometry: {
-            type: 'Point',
-            coordinates: [e.latlng.lng, e.latlng.lat]
-        },
-        properties: {
-            'title': 'Here I am!',
-            'marker-color': '#3764B2',
-            'marker-size': 'large',
-            'marker-symbol': 'bicycle'
-        }
-    });
+          myLayer.setGeoJSON({
+              type: 'Feature',
+              geometry: {
+                  type: 'Point',
+                  coordinates: [e.latlng.lng, e.latlng.lat]
+              },
+              properties: {
+                  'title': 'Here I am!',
+                  'marker-color': '#3764B2',
+                  'marker-size': 'large',
+                  'marker-symbol': 'bicycle'
+              }
+          });
 
-    // And hide the geolocation button
-    // geolocate.parentNode.removeChild(geolocate);
-});
+          // And hide the geolocation button
+          // geolocate.parentNode.removeChild(geolocate);
+      });
 
-// If the user chooses not to allow their location
-// to be shared, display an error message.
-map.on('locationerror', function() {
-    geolocate.innerHTML = 'Position could not be found';
-});
-</script>
-</body>
+      // If the user chooses not to allow their location
+      // to be shared, display an error message.
+      map.on('locationerror', function() {
+          geolocate.innerHTML = 'Position could not be found';
+      });
+    </script>
+  </body>
 </html>
