@@ -86,7 +86,13 @@
               map.fitBounds(subdistricts.getBounds());
               this.setStyle({
                 color: "green",
-                fill: false
+                fillOpacity: 0
+              });
+
+              // After the 'ready' event fires, the GeoJSON contents are accessible
+              // and you can iterate through layers to bind custom popups.
+              subdistricts.eachLayer(function(layer) {
+                layer.bindPopup(layer.feature.properties.name);
               });
           })
           .addTo(map);
