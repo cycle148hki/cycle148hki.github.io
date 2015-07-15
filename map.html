@@ -62,13 +62,34 @@
     <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
 
     <div id='map'></div>
-    <a href='#' id='geolocate' class='ui-button'>Find me</a>
+    <a href='#' id='geolocate' class='ui-button'>Loading...</a>
     <div id='label' class='label'></div>
 
     <script>
+
+      // String.startsWith
+      // http://stackoverflow.com/a/646643/724176
+      if(!String.prototype.startsWith){
+          String.prototype.startsWith = function (str) {
+              return !this.indexOf(str);
+          }
+      }
+
+      function getURLParameter(name) {
+        return decodeURI(
+          (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search)||[,null])[1]
+        );
+      }
+
+      if (getURLParameter("done") !== "null") {
+        var done = getURLParameter("done");
+        done = done.split(",");
+        console.log(done);
+      }
+
       L.mapbox.accessToken = 'pk.eyJ1IjoiaHVnb3ZrIiwiYSI6ImY2MjkwNGNlMzUwNDM3ZGQ1NGJkNjM2Y2IwYjYyYTE5In0.EB0cLP2_gYi4pxYAiUn6Mg';
       var geolocate = document.getElementById('geolocate');
-      var map = L.mapbox.map('map', 'mapbox.streets');
+      var map = L.mapbox.map('map', 'mapbox.run-bike-hike');
       map.setView(new L.LatLng(60.1708, -24.9375), 11);
 
       var myLayer = L.mapbox.featureLayer().addTo(map);
@@ -85,7 +106,7 @@
           .on('ready', function() {
               map.fitBounds(subdistricts.getBounds());
               this.setStyle({
-                color: "green",
+                color: "red",
                 fillOpacity: 0
               });
 
@@ -94,6 +115,27 @@
               subdistricts.eachLayer(function(layer) {
                 layer.bindPopup(layer.feature.properties.name);
               });
+
+              if (done) {
+               var doneLength = done.length;
+                map.eachLayer(function (layer) {
+                  if (layer.feature) {
+                    var layer_name = layer.feature.properties.name;
+                    for (var i = 0; i < doneLength; i++) {
+                      if (layer_name.startsWith(done[i])) {
+                        layer.setStyle({
+                          color: "green",
+                          fillOpacity: 0.2,
+                          fillColor :'green'});
+                        break;
+                      }
+                    }
+                  }
+                });
+              }
+
+              geolocate.innerHTML = 'Find me';
+
           })
           .addTo(map);
 
