@@ -107,7 +107,7 @@
               map.fitBounds(subdistricts.getBounds());
               this.setStyle({
                 color: "red",
-                fillOpacity: 0
+                fillOpacity: 0.1
               });
 
               // After the 'ready' event fires, the GeoJSON contents are accessible
@@ -124,9 +124,8 @@
                     for (var i = 0; i < doneLength; i++) {
                       if (layer_name.startsWith(done[i])) {
                         layer.setStyle({
-                          color: "green",
-                          fillOpacity: 0.2,
-                          fillColor :'green'});
+                          color: "green"
+                          });
                         break;
                       }
                     }
