@@ -45,9 +45,15 @@
       }
       .label {
         position: absolute;
-        bottom:10px;
-        right: 10px;
         z-index: 1000;
+      }
+      .bottom-right.label {
+        bottom: 10px;
+        right:  10px;
+      }
+      .top-right.label {
+        top:   10px;
+        right: 10px;
       }
       .label strong {
         background: #404040;
@@ -63,7 +69,8 @@
 
     <div id='map'></div>
     <a href='#' id='geolocate' class='ui-button'>Loading...</a>
-    <div id='label' class='label'></div>
+    <div id='locationlabel' class='bottom-right label'></div>
+    <div id='donelabel' class='top-right label'></div>
 
     <script>
 
@@ -84,7 +91,7 @@
       if (getURLParameter("done") !== "null") {
         var done = getURLParameter("done");
         done = done.split(",");
-        console.log(done);
+        donelabel.innerHTML = '<strong>' + done.length + '/148</strong>';
       }
 
       L.mapbox.accessToken = 'pk.eyJ1IjoiaHVnb3ZrIiwiYSI6ImY2MjkwNGNlMzUwNDM3ZGQ1NGJkNjM2Y2IwYjYyYTE5In0.EB0cLP2_gYi4pxYAiUn6Mg';
@@ -161,10 +168,10 @@
           var results = leafletPip.pointInLayer(e.latlng, subdistricts);
           if (results.length) {
             map.fitBounds(results[0]);
-            label.innerHTML = '<strong>' + results[0].feature.properties.name + '</strong>';
+            locationlabel.innerHTML = '<strong>' + results[0].feature.properties.name + '</strong>';
           } else {
             map.fitBounds(e.bounds);
-            label.innerHTML = '';
+            locationlabel.innerHTML = '';
           }
 
           myLayer.setGeoJSON({
