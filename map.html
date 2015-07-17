@@ -111,14 +111,29 @@
       // into GeoJSON
       var subdistricts = omnivore.kml('subdistricts.kml')
           .on('ready', function() {
-              map.fitBounds(subdistricts.getBounds());
+
+            // Don't include southern sea areas in initial map extent
+            var latLongCollection = [];
+              map.eachLayer(function (layer) {
+                if (layer.feature) {
+                  var layer_name = layer.feature.properties.name;
+                  if (!layer_name.startsWith("531") &&
+                      !layer_name.startsWith("532") &&
+                      !layer_name.startsWith("533")) {
+                    latLongCollection.push(layer.getBounds());
+                  }
+                }
+              });
+              map.fitBounds(latLongCollection);
+
               this.setStyle({
                 color: "red",
-                fillOpacity: 0.1
+                fillOpacity: 0
               });
 
-              // After the 'ready' event fires, the GeoJSON contents are accessible
-              // and you can iterate through layers to bind custom popups.
+              // After the 'ready' event fires, the GeoJSON contents are
+              // accessible and you can iterate through layers to bind
+              // custom popups.
               subdistricts.eachLayer(function(layer) {
                 layer.bindPopup(layer.feature.properties.name);
               });
@@ -127,6 +142,9 @@
                var doneLength = done.length;
                 map.eachLayer(function (layer) {
                   if (layer.feature) {
+                     layer.setStyle({
+                       fillOpacity: 0.1
+                      });
                     var layer_name = layer.feature.properties.name;
                     for (var i = 0; i < doneLength; i++) {
                       if (layer_name.startsWith(done[i])) {
