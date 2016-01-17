@@ -88,10 +88,19 @@
         );
       }
 
+      if (getURLParameter("highlight") !== "null") {
+        var highlight = getURLParameter("highlight");
+        highlight = highlight.split(",");
+      }
+
       if (getURLParameter("done") !== "null") {
         var done = getURLParameter("done");
         done = done.split(",");
-        donelabel.innerHTML = '<strong>' + Math.floor(done.length / 148 * 100) + '% ' + done.length + '/148</strong>';
+        numberDone = done.length;
+        if (highlight) {
+          numberDone += highlight.length;
+        }
+        donelabel.innerHTML = '<strong>' + Math.floor(numberDone / 148 * 100) + '% ' + numberDone + '/148</strong>';
       }
 
       L.mapbox.accessToken = 'pk.eyJ1IjoiaHVnb3ZrIiwiYSI6ImY2MjkwNGNlMzUwNDM3ZGQ1NGJkNjM2Y2IwYjYyYTE5In0.EB0cLP2_gYi4pxYAiUn6Mg';
@@ -150,6 +159,24 @@
                       if (layer_name.startsWith(done[i])) {
                         layer.setStyle({
                           color: "green"
+                          });
+                        break;
+                      }
+                    }
+                  }
+                });
+              }
+
+              if (highlight) {
+               var highlightLength = highlight.length;
+                map.eachLayer(function (layer) {
+                  if (layer.feature) {
+                    var layer_name = layer.feature.properties.name;
+                    for (var i = 0; i < highlightLength; i++) {
+                      if (layer_name.startsWith(highlight[i])) {
+                        layer.setStyle({
+                          color: "orange",
+                         fillOpacity: 0.5
                           });
                         break;
                       }
