@@ -96,11 +96,7 @@
       if (getURLParameter("done") !== "null") {
         var done = getURLParameter("done");
         done = done.split(",");
-        numberDone = done.length;
-        if (highlight) {
-          numberDone += highlight.length;
-        }
-        donelabel.innerHTML = '<strong>' + Math.floor(numberDone / 148 * 100) + '% ' + numberDone + '/148</strong>';
+        donelabel.innerHTML = '<strong>' + Math.floor(done.length / 148 * 100) + '% ' + done.length + '/148</strong>';
       }
 
       L.mapbox.accessToken = 'pk.eyJ1IjoiaHVnb3ZrIiwiYSI6ImY2MjkwNGNlMzUwNDM3ZGQ1NGJkNjM2Y2IwYjYyYTE5In0.EB0cLP2_gYi4pxYAiUn6Mg';
