@@ -6,8 +6,8 @@
     <!--[if IE]><link rel="shortcut icon" href="favicon.ico"><![endif]-->
     <link rel="icon" href="favicon.png">
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-    <script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox.js/v3.3.1/mapbox.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox.js/v3.3.1/mapbox.css' rel='stylesheet' />
     <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-pip/v0.1.0/leaflet-pip.min.js'></script>
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@hugovk" />
@@ -101,7 +101,8 @@
 
       L.mapbox.accessToken = 'pk.eyJ1IjoiaHVnb3ZrIiwiYSI6ImY2MjkwNGNlMzUwNDM3ZGQ1NGJkNjM2Y2IwYjYyYTE5In0.EB0cLP2_gYi4pxYAiUn6Mg';
       var geolocate = document.getElementById('geolocate');
-      var map = L.mapbox.map('map', 'mapbox.run-bike-hike');
+      var map = L.mapbox.map('map')
+        .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/outdoors-v11'));
       map.setView(new L.LatLng(60.1708, -24.9375), 11);
 
       var myLayer = L.mapbox.featureLayer().addTo(map);
