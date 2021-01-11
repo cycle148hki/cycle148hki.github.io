@@ -8,7 +8,7 @@
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.tiles.mapbox.com/mapbox.js/v3.3.1/mapbox.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox.js/v3.3.1/mapbox.css' rel='stylesheet' />
-    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-pip/v0.1.0/leaflet-pip.min.js'></script>
+    <script src='https://unpkg.com/@mapbox/leaflet-pip@1.1.0/leaflet-pip.js'></script>
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@hugovk" />
     <meta name="twitter:title" content="Project #cycle148HKI" />
@@ -209,7 +209,7 @@
           geolocate.innerHTML = 'Find me';
           var results = leafletPip.pointInLayer(e.latlng, subdistricts);
           if (results.length) {
-            map.fitBounds(results[0]);
+            map.fitBounds(results[0]._bounds);
             locationlabel.innerHTML = '<strong>' + results[0].feature.properties.name + '</strong>';
           } else {
             map.fitBounds(e.bounds);
