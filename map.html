@@ -207,7 +207,7 @@
       // on it, and add a single marker.
       map.on('locationfound', function(e) {
           geolocate.innerHTML = 'Find me';
-          var results = leafletPip.pointInLayer(e.latlng, subdistricts);
+          var results = leafletPip.pointInLayer(e.latlng, subdistricts, true);
           if (results.length) {
             map.fitBounds(results[0]._bounds);
             locationlabel.innerHTML = '<strong>' + results[0].feature.properties.name + '</strong>';
